@@ -16,7 +16,6 @@ remote_theme: aidewoode/jekyll-theme-mint
 blog_theme: auto
 plugins:
   - jekyll-feed
-disqus_shortname: gurdiga-github-io
 
 exclude:
   - CNAME
