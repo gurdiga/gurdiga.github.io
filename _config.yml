@@ -12,6 +12,7 @@ github_username:  gurdiga
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-mint
+remote_theme: aidewoode/jekyll-theme-mint
 blog_theme: auto
 plugins:
   - jekyll-feed
