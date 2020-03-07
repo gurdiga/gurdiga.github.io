@@ -6,8 +6,15 @@ SERVER_PORT=4004
 build: bundler
 	bundle exec jekyll build
 
-start: bundler
+start: bundler adjust-config
+	( sleep 10 && make revert-config ) &
 	bundle exec jekyll serve
+
+adjust-config:
+	sed -i 's|remote_theme: aidewoode/jekyll-theme-mint|theme: jekyll-theme-mint|' _config.yml
+
+revert-config:
+	sed -i 's|theme: jekyll-theme-mint|remote_theme: aidewoode/jekyll-theme-mint|' _config.yml
 
 open:
 	open http://$(SERVER_IP):$(SERVER_PORT)
