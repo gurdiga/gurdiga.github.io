@@ -3,7 +3,7 @@
 SERVER_IP=127.1
 SERVER_PORT=4004
 
-build: bundler
+build: bundler adjust-config
 	bundle exec jekyll build
 
 start: bundler adjust-config
