@@ -49,6 +49,7 @@ _sass/_fonts.scss: assets/fonts/
 	( \
 		echo 'https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,700;1,400;1,700&display=swap'; \
 		echo 'https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap'; \
+		echo 'https://fonts.googleapis.com/css2?family=Inconsolata&display=swap'; \
 	) | while read url; do \
 		curl \
 			-H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:69.0) Gecko/20100101 Firefox/69.0' \
