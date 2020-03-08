@@ -4,3 +4,9 @@ $serif-fonts: 'Palatino', 'Palatino Linotype', 'Book Antiqua', #{$zh-fonts}, ser
 $monospaced-fonts: 'Menlo', 'Monaco', 'Consolas', "Courier New", monospace;
 
 $default-font-size: 18px;
+
+// CUSTOMIZATION
+
+@import 'fonts';
+$sans-serif-fonts: 'PT Sans', #{$sans-serif-fonts};
+$serif-fonts: Vollkorn, #{$serif-fonts};
