@@ -13,9 +13,8 @@ start: bundler adjust-config Gemfile.lock
 	bundle exec jekyll serve
 
 adjust-config:
-	THEME_VERSION=`bundle list | grep -Po '(?<=jekyll-theme-mint \()[^)]+'` && \
-	sed -i "s|remote_theme: aidewoode/jekyll-theme-mint@$$THEME_VERSION|theme: jekyll-theme-mint|" _config.yml
-	(sleep 3 && sed -i "s|theme: jekyll-theme-mint|remote_theme: aidewoode/jekyll-theme-mint@$$THEME_VERSION|" _config.yml) &
+	sed -i "s|remote_theme: aidewoode/jekyll-theme-mint|theme: jekyll-theme-mint|" _config.yml
+	(sleep 3 && sed -i "s|theme: jekyll-theme-mint|remote_theme: aidewoode/jekyll-theme-mint|" _config.yml) &
 
 open:
 	open http://$(SERVER_IP):$(SERVER_PORT)
