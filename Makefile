@@ -55,3 +55,22 @@ _sass/_fonts.scss: assets/fonts/
 	mkdir -p assets/fonts
 	grep -Po 'https://fonts.gstatic.com\S+.woff2' $@ | xargs wget --directory-prefix=assets/fonts/
 	/usr/local/opt/gnu-sed/libexec/gnubin/sed -i 's|https://fonts.gstatic.com/.*/|fonts/|' $@
+
+favicon: favicon.ico
+	rm favicon.png
+
+favicon.png: favicon.svg
+	"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
+		--headless \
+		--screenshot \
+		--window-size=100,100 \
+		--default-background-color=0 \
+		--screenshot=favicon.png \
+		favicon.svg
+
+favicon.ico: favicon.png
+	convert favicon.png \
+		-units PixelsPerInch \
+		-resample 300 \
+		-resize 64x64 \
+		favicon.ico
