@@ -11,7 +11,7 @@ github_username:
 
 # Build settings
 markdown: kramdown
-remote_theme: aidewoode/jekyll-theme-mint
+remote_theme: aidewoode/jekyll-theme-mint@v1.1.0
 blog_theme: auto
 plugins:
   - jekyll-feed
