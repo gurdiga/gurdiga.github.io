@@ -6,7 +6,10 @@ SERVER_PORT=4004
 build: bundler adjust-config
 	bundle exec jekyll build
 
-start: bundler adjust-config
+Gemfile.lock: Gemfile
+	bundle install
+
+start: bundler adjust-config Gemfile.lock
 	bundle exec jekyll serve
 
 adjust-config:
