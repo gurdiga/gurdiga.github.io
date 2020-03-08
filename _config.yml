@@ -21,6 +21,7 @@ exclude:
   - Makefile
   - README.md
   - .viminfo
+  - .bash_history
 
 jekyll_compose:
   auto_open: true
