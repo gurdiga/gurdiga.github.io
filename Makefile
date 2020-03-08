@@ -40,3 +40,18 @@ e: edit
 
 pre-commit: build
 pc: pre-commit
+
+fonts: _sass/_fonts.scss
+_sass/_fonts.scss: assets/fonts/
+	( \
+		echo 'https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,700;1,400;1,700&display=swap'; \
+		echo 'https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap'; \
+	) | while read url; do \
+		curl \
+			-H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:69.0) Gecko/20100101 Firefox/69.0' \
+			--fail "$$url" >> $@ \
+	; done
+	rm -rf assets/fonts
+	mkdir -p assets/fonts
+	grep -Po 'https://fonts.gstatic.com\S+.woff2' $@ | xargs wget --directory-prefix=assets/fonts/
+	/usr/local/opt/gnu-sed/libexec/gnubin/sed -i 's|https://fonts.gstatic.com/.*/|fonts/|' $@

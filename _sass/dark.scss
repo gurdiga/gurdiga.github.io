@@ -45,6 +45,12 @@ $post-block-bg-color: $grey-darkest;
 
 @import 'normalize';
 @import 'settings';
+
+/* CUSTOM CODE BEGIN */
+@import 'fonts';
+@import 'custom';
+/* CUSTOM CODE END */
+
 @import 'layout';
 @import 'responsive';
 @import 'post';
