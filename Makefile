@@ -10,7 +10,7 @@ Gemfile.lock: Gemfile
 	bundle install
 
 start: bundler adjust-config Gemfile.lock
-	bundle exec jekyll serve
+	bundle exec jekyll serve --port $(SERVER_PORT) --host $(SERVER_IP)
 
 adjust-config:
 	THEME_VERSION=`/usr/local/opt/grep/libexec/gnubin/grep -Po '(?<=jekyll-theme-mint", branch: ")[^"]+' Gemfile` && \
