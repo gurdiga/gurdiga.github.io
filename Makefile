@@ -1,6 +1,6 @@
 .ONESHELL:
 
-SERVER_IP=127.1
+SERVER_IP=127.0.0.1
 SERVER_PORT=4004
 
 build: bundler adjust-config
@@ -36,7 +36,6 @@ bundler: /usr/local/bin/bundle
 
 edit:
 	code -n .
-	exit
 e: edit
 
 pre-commit: build
