@@ -19,7 +19,9 @@ For the vendor bundles it looked like this: to be able to serve them with a maxi
 [2]: https://github.com/gurdiga/repetitor.tsx/commit/7e7efcac9728b73291348ca9818d181ad2e1200d
 [3]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control#Caching_static_assets
 
-This will allow me not to worry about it getting cached when I upgrade it. For the app bundles I use the Git revision as the version, so I have paths like this:
+This will allow me not to worry about it getting cached when I upgrade it. There is one nuance that I’d like to mention: I don’t bundle the vendor modules at all, I just serve them from the `node_modules` directory. Bundling them all into a “vendor” bundle would only increase the build time without much added value.
+
+For the app bundles I use the Git revision as the version, so I have paths like this:
 
 ```
 /home/bundle-21f11a9c3f6037c1b80372ad7b3aa8d36cd9e1c9.js
