@@ -13,7 +13,7 @@ start: bundler adjust-config Gemfile.lock
 	bundle exec jekyll serve --port $(SERVER_PORT) --host $(SERVER_IP)
 
 adjust-config:
-	THEME_VERSION=`/usr/local/opt/grep/libexec/gnubin/grep -Po '(?<=jekyll-theme-mint", branch: ")[^"]+' Gemfile` && \
+	@THEME_VERSION=`/usr/local/opt/grep/libexec/gnubin/grep -Po '(?<=jekyll-theme-mint", branch: ")[^"]+' Gemfile` && \
 	sed -i "s|remote_theme: aidewoode/jekyll-theme-mint@$$THEME_VERSION|theme: jekyll-theme-mint|" _config.yml
 	(sleep 3 && sed -i "s|theme: jekyll-theme-mint|remote_theme: aidewoode/jekyll-theme-mint@$$THEME_VERSION|" _config.yml) &
 
