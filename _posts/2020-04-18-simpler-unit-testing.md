@@ -25,7 +25,7 @@ On this side-project when I need to [add][2] new functionality, I begin with def
 [2]: {% post_url 2020-02-14-simpler-architecture-specifics %}
 [3]: https://github.com/gurdiga/repetitor.tsx/tree/e066557/shared/src/Scenarios
 
-I think I can afford this because the scenarios are small enough so far. Even more, I can the work in two pieces: after defining the scenario, I can do the backend first and [its unit tests][4], then do the frontend and [its unit tests][5].
+I think I can afford this because the scenarios are small enough so far. Even more, I can break the work in two pieces: after defining the scenario, I can do the backend first and [its unit tests][4], then do the frontend and [its unit tests][5].
 
 Happy testing! 🙂
 
