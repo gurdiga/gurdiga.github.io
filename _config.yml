@@ -5,9 +5,10 @@ description:
 baseurl: "" # the subpath of your site, e.g. /blog
 date_format: "%b %-d, %Y"
 permalink: /blog/:year/:month/:day/:title/
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gurdiga.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
+disqus_shortname: gurdiga-github-io # Needs url: above set for the absolute_url liquid filter to work properly
 
 # Build settings
 markdown: kramdown
