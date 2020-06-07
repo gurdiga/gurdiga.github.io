@@ -146,7 +146,7 @@ function stderr() {
 }
 
 # I use this helper function as an `if` condition, so the only relevant
-# thing here is the exit code: success or failure. This is why I use
+# thing here is the exit status: success or failure. This is why I use
 # grep’s `--quiet` parameter.
 function finished_listing() {
     grep --quiet ":: Finished $1." photo-list.txt
