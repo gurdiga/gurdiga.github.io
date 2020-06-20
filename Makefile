@@ -19,6 +19,7 @@ adjust-config:
 
 open:
 	open http://$(SERVER_IP):$(SERVER_PORT)
+o: open
 
 post: bundler
 	@read -p "Article title: " title
