@@ -10,4 +10,5 @@ $default-font-size: 18px;
 @import 'fonts';
 $sans-serif-fonts: 'PT Sans', #{$sans-serif-fonts};
 $serif-fonts: Vollkorn, #{$serif-fonts};
-$monospaced-fonts: Inconsolata, #{$monospaced-fonts}
+$monospaced-fonts: Inconsolata, #{$monospaced-fonts};
+@import 'custom';

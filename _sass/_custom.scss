@@ -1,0 +1,11 @@
+.footnotes {
+  font-size: smaller;
+}
+
+.footnotes::before {
+  border-top: 1px solid silver;
+  display: block;
+  width: 50%;
+  margin: 3em 0 0.5em;
+  content: " ";
+}
