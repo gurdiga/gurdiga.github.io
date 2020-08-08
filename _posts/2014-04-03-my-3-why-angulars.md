@@ -16,16 +16,17 @@ depending on the choices that users makes at some point, there may be
 more fields added at the subsequent steps. With jQuery, you have to
 write code that:
 
-finds those fields and populates them when you open the document finds
-those fields and collects data out of them into a structure to save Yes,
-you can come up with clever conventions and tricks to make this nicer,
+- finds those fields and populates them when you open the document
+- finds those fields and collects data out of them into a structure to save
+
+Yes, you can come up with clever conventions and tricks to make this nicer,
 I’ve tried that, an my version was not that nice in the end. :-/
 
 With Angular’s binding, you just add the ng-model attribute on inputs,
 and you have all the data, all the time, in and out of the form, with
 zero DOM walking. B-)
 
-¹ I know large forms are a subject in and of itself, but let’s say for a
+¹ I know large forms are a subject in and of themselves, but let’s say for a
 moment that in my particular context this was OK. ;)
 
 ## Contextualization
