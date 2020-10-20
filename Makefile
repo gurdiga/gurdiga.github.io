@@ -22,8 +22,12 @@ open:
 o: open
 
 post: bundler
-	@read -p "Article title: " title
-	EDITOR=code bundle exec jekyll post "$$title"
+	@if env | grep -i 'TERM_PROGRAM=vscode' > /dev/null; then \
+		read -p "Article title: " title; \
+		EDITOR=code bundle exec jekyll post "$$title"; \
+	else \
+		make edit; \
+	fi
 
 install: bundler git-hook
 
