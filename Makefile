@@ -7,7 +7,7 @@ build: bundler adjust-config
 	bundle exec jekyll build
 
 Gemfile.lock: Gemfile
-	bundle install
+	bundle install && touch Gemfile.lock
 
 start: bundler adjust-config Gemfile.lock
 	bundle exec jekyll serve --port $(SERVER_PORT) --host $(SERVER_IP)
