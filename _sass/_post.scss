@@ -7,6 +7,12 @@
   color: $post-content-color;
 }
 
+@media screen and (max-width: 768px) {
+  .post {
+    line-height: normal;
+  }
+}
+
 .post h1,
 .post h2,
 .post h3,
