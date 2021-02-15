@@ -28,6 +28,12 @@ body {
   margin: 50px 0 120px;
 }
 
+@media screen and (max-width: 480px) {
+  .main {
+    margin-top: 1rem;
+  }
+}
+
 .header__nav {
   display: flex;
   align-items: baseline;
@@ -79,7 +85,7 @@ body {
 
 .footer {
   padding: 25px 0;
-  font-size: .9rem;
+  font-size: 0.9rem;
   font-style: italic;
   font-family: $serif-fonts;
   color: $footer-color;
@@ -103,13 +109,13 @@ body {
 }
 
 .footer__item:nth-child(2):before {
-  content: '|';
+  content: "|";
   margin-right: 10px;
 }
 
 .icon {
-  height: .9rem;
-  width: .9rem;
+  height: 0.9rem;
+  width: 0.9rem;
   fill: $icon-color;
 }
 
