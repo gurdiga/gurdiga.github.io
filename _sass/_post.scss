@@ -55,12 +55,12 @@
 .post a {
   color: $post-link-color;
   word-wrap: break-word;
-  text-decoration-color: rgba($post-link-color, .8);
+  text-decoration-color: rgba($post-link-color, 0.8);
 }
 
 .post a:hover {
   color: $post-link-hover-color;
-  text-decoration-color: rgba($post-link-hover-color, .6);
+  text-decoration-color: rgba($post-link-hover-color, 0.6);
 }
 
 .post h1 a,
@@ -266,4 +266,8 @@
   .post blockquote blockquote {
     margin-left: 0;
   }
+}
+
+.post time {
+  font-family: $serif-fonts;
 }
