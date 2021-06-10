@@ -108,3 +108,5 @@ of anxiety: “I just can’t keep up with all these things.” It’s
 terrifying. But then I realized that that’s OK. Are there surprising new
 ways to solve problems for people and build useful things? Perfect! This
 is a sign that the world evolves, and this is a good thing.
+
+UPDATE Jul 10 2021: One of my readers shared another link: [https://www.websiteplanet.com/blog/html-guide-beginners/](https://www.websiteplanet.com/blog/html-guide-beginners/). — Thanks Alyn!
