@@ -51,7 +51,6 @@ _sass/_fonts.scss: assets/fonts/
 	set -e
 	if [ -e "$@" ]; then mv "$@" "$@.old"; fi
 	( \
-		echo 'https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,700;1,400;1,700&display=swap'; \
 		echo 'https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap'; \
 		echo 'https://fonts.googleapis.com/css2?family=Inconsolata&display=swap'; \
 	) | while read url; do \
@@ -64,6 +63,9 @@ _sass/_fonts.scss: assets/fonts/
 	grep -Po 'https://fonts.gstatic.com\S+.woff2' $@ | xargs wget --directory-prefix=assets/fonts/
 	/usr/local/opt/gnu-sed/libexec/gnubin/sed -i 's|https://fonts.gstatic.com/.*/|fonts/|' $@
 	rm "$@.old"
+
+assets/fonts/:
+	mkdir assets/fonts
 
 favicon: favicon.ico
 	rm favicon.png
