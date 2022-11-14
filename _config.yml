@@ -20,3 +20,6 @@ exclude:
   - README.md
   - .viminfo
   - .bash_history
+
+minima:
+  skin: auto
