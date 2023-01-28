@@ -24,6 +24,7 @@ Here are some of the more technical aspects of my practice:
     - Mind feels refreshed, feet and palms warm up.
     - Breathing get automatic and rhythmic after a few minutes.
     - Forehead is relaxed.
+    - Time flies.
 - **Side effects**:
     - I can get rid of most headaches.
     - They say that breathing into the belly gives a nice massage to the internal organs.
