@@ -4,7 +4,7 @@ title: 'Hello world!'
 date: '2014-04-02T17:41:00+03:00'
 ---
 
-Hello world! Again.
+Hello world! Again!
 
 I’m reading an article on the blog of Alex from 8thlight and liked the
 blog design so much that I wanted to have my own like that.
