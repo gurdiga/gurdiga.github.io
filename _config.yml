@@ -3,7 +3,7 @@ email: gurdiga@gmail.com
 author: Vlad GURDIGA
 description: >
   If you have questions or comments, drop me a note on email. I’d be glad to
-  hear from you. 🙂
+  hear from you! 🙂
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /blog/:year/:month/:day/:title/
