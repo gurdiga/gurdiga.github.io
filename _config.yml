@@ -33,3 +33,7 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
+read_time: true
+words_per_minute: 100
+
+tag_archive_path: "/tags/#"
