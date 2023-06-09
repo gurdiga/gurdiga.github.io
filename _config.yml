@@ -10,7 +10,7 @@ github_username:
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/so-simple-theme@7c881be"
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
   - jekyll-paginate
