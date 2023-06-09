@@ -2,8 +2,7 @@
 layout: post
 title: Make a bot list from access.log and use it
 date: 2023-06-09 10:34 +0300
-tags:
- - vim
+tags: [grep, unix, scripting]
 ---
 
 The other day, after playing a bit with [GoAccess][goaccess] I found that the numbers didn’t add up with my in-app tracking, and I decided to take a slice of access.log and eyeball it to see what’s going on. What I found was discouraging: lots an lots of bot and crawler requests. As disappointing as it was, it was still good to find this out and adjust my perception to reality.
