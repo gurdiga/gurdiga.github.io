@@ -15,6 +15,10 @@ markdown: kramdown
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 10  # amount of posts to show per page
+paginate_path: /page:num/
 
 exclude:
   - CNAME
@@ -23,5 +27,9 @@ exclude:
   - .viminfo
   - .bash_history
 
-minima:
-  skin: auto
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+

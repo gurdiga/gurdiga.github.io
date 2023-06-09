@@ -276,6 +276,7 @@ DEPENDENCIES
   jekyll (~> 3.9.2)
   jekyll-compose
   jekyll-feed (~> 0.6)
+  jekyll-paginate
   jekyll-theme-so-simple
   kramdown-parser-gfm
   tzinfo (~> 1.2)
