@@ -5,14 +5,13 @@ date: '2015-01-20T09:51:00+02:00'
 tags:
 - js
 - promise
-tumblr_url: http://meexposed.tumblr.com/post/108628591690/oiling-promise-chains
 ---
 When working with asynchronous procedures in Node, I find promise chains help me write pretty readable linear-looking code:
 
 ```js
 return getUserList()
 .then(processUsers)
-.then(disconnectDB) 
+.then(disconnectDB)
 .catch(logErrorAndExit);
 ```
 

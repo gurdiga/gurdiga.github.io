@@ -2,8 +2,6 @@
 layout: post
 title: 'My own hackathon: day 4/14'
 date: '2015-05-22T19:19:46+03:00'
-tags: []
-tumblr_url: http://meexposed.tumblr.com/post/119609376640/my-own-hackathon-day-414
 ---
 Today I worked pretty smooth once I got into the flow. And I feel a bit more tired than usual and I have some theories on why.
 
