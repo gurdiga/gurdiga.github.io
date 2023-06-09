@@ -4,6 +4,4 @@ layout: tags
 permalink: /tags/
 ---
 
-Coming soon! 🙂
-
-I will gradually tag articles.
+**NOTE**: More coming soon! I will gradually tag articles. 🙂
