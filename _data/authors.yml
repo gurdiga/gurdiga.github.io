@@ -1,3 +1,13 @@
 me:
   name: Vlad GURDIGA
   picture: /images/gravatar.jpg
+  links:
+    - title: GitHub profile
+      url: https://github.com/gurdiga
+      icon: fab fa-github
+    - title: LinkedIn profile
+      url: https://linkedin.com/in/gurdiga
+      icon: fab fa-linkedin
+    - title: Facebook profile
+      url: https://facebook.com/gurdiga
+      icon: fab fa-facebook
