@@ -17,6 +17,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+feed:
+  path: atom.xml
+
 paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
 
@@ -37,3 +40,11 @@ read_time: true
 words_per_minute: 100
 
 tag_archive_path: "/tags/#"
+
+footer_links:
+  - title: GitHub
+    url: https://github.com/gurdiga
+    icon: fab fa-github-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
