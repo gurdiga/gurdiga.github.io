@@ -1,9 +1,7 @@
 title: Geeky stories
-email: gurdiga@gmail.com
 author: me
-description: >
-  If you have questions or comments, drop me a note on email. I’d be glad to
-  hear from you! 🙂
+description: >-
+  This is my personal blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /blog/:year/:month/:day/:title/
