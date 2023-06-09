@@ -3,7 +3,7 @@ layout: page
 title: Now
 ---
 
-This is my [now page][0]{:target="_blank"}.
+This is my [Now Page][0]{:target="_blank"}. 😇
 
 [0]: https://thenow.page/
 
