@@ -2,11 +2,15 @@
 layout: post
 title: Simple log aggregation for Docker containers
 date: 2021-09-19 11:16 +0300
+tags: [docker]
+excerpt_separator: <!-- excerpt -->
 ---
 
 ## The Why
 
 The Docker composition on one of my side projects has recently got to 6 containers: SMTP-in, SMTP-out, app, subscription, website, and certbot. Since I have deployed a `0.1.0` version to DigitalOcean a couple of weeks ago, I caught myself feeling increasingly anxious about losing logs every time I deployed a new version of the container.
+
+<!-- excerpt -->
 
 Every container is streaming its logs to STDOUT. I wanted to have a persistent log file for each container, which [Docker almost does][0] out-of-the-box, with the “little” caveat that those files are removed every time the container is rebuilt. 🙃
 

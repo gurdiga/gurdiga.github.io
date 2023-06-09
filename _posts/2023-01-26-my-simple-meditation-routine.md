@@ -2,6 +2,7 @@
 layout: post
 title: My simple meditation routine
 date: 2023-01-26 20:16 +0200
+tags: [ease-into-it]
 ---
 
 My current meditation practice is a sort of mindfulness meditation: it’s intended as a way of training attention, focus, and self-awareness.
