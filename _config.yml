@@ -20,7 +20,7 @@ plugins:
 feed:
   path: atom.xml
 
-paginate: 10  # amount of posts to show per page
+paginate: 20  # amount of posts to show per page
 paginate_path: /page:num/
 
 exclude:
