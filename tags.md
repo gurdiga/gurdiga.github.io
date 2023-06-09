@@ -4,4 +4,5 @@ layout: tags
 permalink: /tags/
 ---
 
-> **NOTE**: More coming soon! I will gradually tag articles. 🙂
+**NOTE**: More coming soon! I will gradually tag articles. 🙂
+{: .notice--warning}
