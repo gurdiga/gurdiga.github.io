@@ -2,6 +2,7 @@
 layout: post
 title: make watch-app
 date: 2022-11-14 05:18 +0200
+tags: [make]
 ---
 
 My name Vlad, and I still like to `make` things in 2022, as in [GNU Make][0]. 🙃
