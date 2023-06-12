@@ -2,6 +2,8 @@
 layout: post
 title: Why I stopped pursuing entrepreneurship
 date: '2015-08-29T18:39:46+03:00'
+tags: []
+categories: []
 ---
 More than a few years ago I decided I want to work on my own business.
 I’ve been learning quite a few things from books, blogs, and podcasts,

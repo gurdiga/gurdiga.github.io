@@ -2,6 +2,8 @@
 layout: post
 title: Simple .env
 date: '2014-10-04T18:50:00+03:00'
+tags: [dev]
+categories: []
 ---
 I’ve seen .env being used in Heroku projects, and also in a RubyTapas
 episode about Dotenv gem, and I kind of liked it. But I’m reticent to

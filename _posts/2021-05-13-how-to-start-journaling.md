@@ -2,6 +2,8 @@
 layout: post
 title: How to start journaling
 date: 2021-05-13 09:41 +0300
+tags: []
+categories: []
 ---
 
 The other day I found myself in a conversation where I was recommending journaling to improve self-awareness and the capacity to analyze issues small and large. Then as I thought about that conversation later, I realized that for someone who didn’t journal for at least some time, it may sound too grandiose and unapproachable, and so I thought that I should have suggested an easier way to begin. After that, this idea was bubbling again and again in my mind, and so here I am explaining it here.

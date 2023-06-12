@@ -2,6 +2,8 @@
 layout: post
 title: My testing guideline
 date: '2015-09-13T12:28:21+03:00'
+tags: []
+categories: []
 ---
 I use one non-academic guideline that helps me decide what and how to
 test in my code.

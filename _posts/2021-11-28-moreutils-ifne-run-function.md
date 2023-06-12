@@ -2,6 +2,8 @@
 layout: post
 title: moreutils ifne run function
 date: 2021-11-28 13:00 +0200
+tags: []
+categories: []
 ---
 
 There is this lil program in moreutils called [`ifne`][0]. I use it in shell pipelines, to execute a given command when there is some output. A quick example:

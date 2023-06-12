@@ -2,6 +2,8 @@
 layout: post
 title: The promise handler pattern
 date: '2014-07-05T12:14:00+03:00'
+tags: [js]
+categories: []
 ---
 The common way I’ve seen JS promises being explained is something like this:
 

@@ -2,6 +2,8 @@
 layout: post
 title: Enjoy the stability
 date: '2014-07-16T17:51:00+03:00'
+tags: []
+categories: []
 ---
 It’ll take some time for the peace and comfort to become stability. I
 think it’s OK to lean on it for a while and enjoy its comfort. Even if

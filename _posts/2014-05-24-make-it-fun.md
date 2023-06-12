@@ -2,6 +2,8 @@
 layout: post
 title: Make it fun
 date: '2014-05-24T16:51:00+03:00'
+tags: []
+categories: []
 ---
 For many years I’m fond of productivity and its inner workings and I
 have one trick that works particularly well, described by my status in

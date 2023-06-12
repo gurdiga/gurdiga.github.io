@@ -2,6 +2,8 @@
 layout: post
 title: My intentful writing
 date: '2015-06-08T20:55:12+03:00'
+tags: [writing]
+categories: []
 ---
 I have recently shared a link to the one of the recent episodes of “Late
 Nights with Trav and Los” podcast: “Why You Should Be A Publisher.” I’m

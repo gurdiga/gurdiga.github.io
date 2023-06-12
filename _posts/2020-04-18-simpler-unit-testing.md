@@ -2,6 +2,8 @@
 layout: post
 title: Simpler unit testing
 date: 2020-04-18 10:49 +0300
+tags: []
+categories: []
 ---
 
 The other day while browsing through [my side-project’s code][1] I realized that I don’t have unit tests for the shared modules.

@@ -2,6 +2,8 @@
 layout: post
 title: One reason to prioritize the feature work over tech work
 date: 2020-02-09 12:40 +0200
+tags: []
+categories: []
 ---
 
 A couple of weeks ago I wrote about the [P/PC Balance][1], and while thinking about it some more, a kind of comic realization stroke me: I realized that one good reason to prioritize feature work above technical work on a project is that the former is _finite_, while the latter is potentially _infinite_.

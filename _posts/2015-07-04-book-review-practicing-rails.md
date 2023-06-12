@@ -2,6 +2,8 @@
 layout: post
 title: 'Book review: Practicing Rails'
 date: '2015-07-04T19:52:20+03:00'
+tags: [dev]
+categories: []
 ---
 A few days ago I have finished reading “[Practicing
 Rails](https://www.justinweiss.com/practicing-rails/)” by Justin Weiss.

@@ -2,6 +2,8 @@
 layout: post
 title: On the book “On writing well”
 date: '2014-05-10T22:58:00+03:00'
+tags: [writing]
+categories: []
 ---
 I just finished reading “On Writing Well” by William Zinsser. I enjoyed
 most of it. I’ve skipped the chapter on sports writing because sports is

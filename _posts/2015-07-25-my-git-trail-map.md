@@ -2,6 +2,8 @@
 layout: post
 title: My Git trail map
 date: '2015-07-25T20:34:53+03:00'
+tags: []
+categories: []
 ---
 In my last article I said that I have started a little study by
 following [thoughtbot’s trail maps](https://github.com/thoughtbot/trail-map).

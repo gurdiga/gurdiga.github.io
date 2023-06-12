@@ -2,7 +2,8 @@
 layout: post
 title: Composing Elm on week 5
 date: 2017-07-01 19:28
-categories:
+tags: []
+categories: []
 ---
 A few weeks ago I have set out to try Elm on [a toy project of
 mine](https://github.com/gurdiga/xo.elm). The experience was like learning to
@@ -138,7 +139,7 @@ view : Contract -> (Contract -> msg) -> Html msg
 view contract callback =
     fieldset []
         [ legend [] [ text "Legend" ] -- ↙ Here the client uses the `view` function
-        , Person.view contract.person (\v -> callback {contract | person = v})  
+        , Person.view contract.person (\v -> callback {contract | person = v})
         , textField "Notes:" person.notes (\v -> callback { contract | notes = v })
         ]
 ```

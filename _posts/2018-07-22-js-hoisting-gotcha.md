@@ -2,6 +2,8 @@
 layout: post
 title: JS hoisting gotcha
 date: 2018-07-22 13:49 +0300
+tags: []
+categories: []
 ---
 
 I have [written]({% post_url 2015-09-30-why-i-like-function-hoisting-in-js %})

@@ -2,6 +2,8 @@
 layout: post
 title: Google Apps Script
 date: 2021-12-19 21:02 +0200
+tags: []
+categories: []
 ---
 
 For a while, I was collecting the DMARC reports, just in case I can find something useful in them. I didn’t, but I liked the lil script that I wrote in this Apps Script from Google. It’s like VBA for Microsoft Office — if you ever heard of it. If not, it’s automation for Google apps and services.

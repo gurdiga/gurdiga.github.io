@@ -2,6 +2,8 @@
 layout: post
 title: 'My own hackathon: day 14'
 date: '2015-06-01T15:52:50+03:00'
+tags: []
+categories: []
 ---
 This is the last day of this sprint. I’m far from an MVP, but I have
 scratched the surface of what’s possible and this gives me some more

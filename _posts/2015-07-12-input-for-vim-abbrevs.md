@@ -2,6 +2,8 @@
 layout: post
 title: Input for vim abbrevs
 date: '2015-07-12T17:16:07+03:00'
+tags: [vim]
+categories: []
 ---
 I got into React.js lately, and one thing that I have noticed right away
 is the boilerplate that I have to type for every component. For example,
@@ -168,7 +170,7 @@ if nothing happened:
 OK, so here is all the code:
 
 ```
-iabbrev reco <Esc>B"zde"_xi                  
+iabbrev reco <Esc>B"zde"_xi
 \var <Esc>"zpa = React.createClass({<Enter>
 \<Tab>render: function() {<Enter>
 \<Tab>return (<Enter>

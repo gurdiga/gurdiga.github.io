@@ -2,6 +2,8 @@
 layout: post
 title: On Testable JavaScript
 date: '2014-04-20T19:14:00+03:00'
+tags: [js]
+categories: []
 ---
 After I watched and shared Mark Trostler’s presentation “Testable
 JavaScript” three times, at intervals of about a year. And for me, the

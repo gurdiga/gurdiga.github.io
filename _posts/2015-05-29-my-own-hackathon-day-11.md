@@ -2,6 +2,8 @@
 layout: post
 title: 'My own hackathon: day 11'
 date: '2015-05-29T22:08:07+03:00'
+tags: []
+categories: []
 ---
 It looks like I’ve caught a cold during my travel. Happy Friday. :-|
 

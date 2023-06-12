@@ -2,6 +2,8 @@
 layout: post
 title: Why I prefer smaller companies
 date: 2021-01-31 19:11 +0200
+tags: []
+categories: []
 ---
 
 Here is a small post about working with small companies.

@@ -2,6 +2,8 @@
 layout: post
 title: 'JS finding of the week: event.code'
 date: '2016-05-05T10:54:52+03:00'
+tags: [js]
+categories: []
 ---
 This morning I was working on a `DropdownButton` widget:
 

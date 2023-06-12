@@ -2,6 +2,8 @@
 layout: post
 title: 'My own hackathon: day 2/14'
 date: '2015-05-21T10:47:18+03:00'
+tags: []
+categories: []
 ---
 I wasn’t very productive on day 2. I have burned the first half of the
 day trying to write the least meaningful test and failed. I admit that I

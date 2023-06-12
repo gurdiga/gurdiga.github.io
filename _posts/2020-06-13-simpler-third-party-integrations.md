@@ -2,6 +2,8 @@
 layout: post
 title: Simpler third-party integrations
 date: 2020-06-13 16:07 +0300
+tags: []
+categories: []
 ---
 
 I would like to tell how I have done the third-party service integrations on [my side project][1]. Email, file storage, error logging are a few examples.

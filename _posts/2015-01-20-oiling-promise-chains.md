@@ -2,9 +2,8 @@
 layout: post
 title: Oiling promise chains
 date: '2015-01-20T09:51:00+02:00'
-tags:
-- js
-- promise
+tags: [js]
+categories: []
 ---
 When working with asynchronous procedures in Node, I find promise chains help me write pretty readable linear-looking code:
 

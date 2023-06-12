@@ -3,6 +3,7 @@ layout: post
 title: Simple log aggregation for Docker containers
 date: 2021-09-19 11:16 +0300
 tags: [docker]
+categories: []
 excerpt_separator: <!-- excerpt -->
 ---
 

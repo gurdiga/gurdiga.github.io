@@ -2,6 +2,8 @@
 layout: post
 title: 'Vim tip of the day: C-a and C-x'
 date: '2016-04-23T17:16:55+03:00'
+tags: [vim]
+categories: []
 ---
 They say that in Ruby if you think “I’m wondering if there is a function
 that does X” then it probably exists. More and more I find that is true

@@ -2,6 +2,8 @@
 layout: post
 title: Per-directory Bash history
 date: 2020-07-18 20:44 +0300
+tags: []
+categories: []
 ---
 
 I’m a heavy console user and I like my shell history to be relevant to the project that I’m working on. For example if I `cd` into `~/src/mixbook_editors`, I want the shell history for that specific project—this is what I mean by _per-directory Bash history_.

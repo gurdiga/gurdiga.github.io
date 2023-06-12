@@ -2,6 +2,8 @@
 layout: post
 title: FP-style conditional callbacks
 date: '2015-12-12T14:16:47+02:00'
+tags: [js]
+categories: []
 ---
 The other day I was putting together a little UI to collect emails: an
 input and a button. So I wanted the email to be take in when the user

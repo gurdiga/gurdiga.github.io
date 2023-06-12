@@ -6,6 +6,7 @@ tags:
 - hackathon
 - webapp
 - development
+categories: []
 ---
 I wrote about this app for bailiffs that I started to build and failed.
 I also wrote that some a couple of weeks ago I went with my partner to a

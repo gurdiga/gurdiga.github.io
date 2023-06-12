@@ -2,6 +2,8 @@
 layout: post
 title: Testing promise-based JS code
 date: '2014-04-25T17:59:00+03:00'
+tags: [js]
+categories: []
 ---
 One tricky thing about testing promises is that they handle errors
 thrown by their .then() callbacks. So I have a test like this:

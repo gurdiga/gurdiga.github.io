@@ -2,6 +2,8 @@
 layout: post
 title: One misuse of SameSite=Strict cookies
 date: 2020-06-20 13:34 +0300
+tags: []
+categories: []
 ---
 
 The _Change Email_ feature on my side-project broke a few days ago.

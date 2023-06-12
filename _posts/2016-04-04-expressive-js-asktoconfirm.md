@@ -2,6 +2,8 @@
 layout: post
 title: Expressive JS: askToConfirm
 date: '2016-04-04T09:27:57+03:00'
+tags: [js]
+categories: []
 ---
 The other day at my day job I needed to change some buttons to ask for
 confirmation before executing the actual action.

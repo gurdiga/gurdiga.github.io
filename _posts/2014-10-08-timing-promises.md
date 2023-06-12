@@ -2,6 +2,8 @@
 layout: post
 title: Timing promises
 date: '2014-10-08T11:37:00+03:00'
+tags: [js]
+categories: []
 ---
 I have a deeply nested loop of promises that query a remote API, and I
 had them logging their time by default, like this:

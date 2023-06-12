@@ -3,6 +3,8 @@ layout: post
 title: Jekyll post alias
 date: 2018-04-11 10:06
 excerpt_separator: <!-- excerpt -->
+tags: [jekyll]
+categories: []
 ---
 
 I’ve launched a [new Jekyll website

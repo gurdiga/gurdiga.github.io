@@ -2,6 +2,8 @@
 layout: post
 title: Speeding up my TypeScript build
 date: 2020-05-10 22:25 +0300
+tags: []
+categories: []
 ---
 
 I was cleaning up my NPM modules on [my side project][0]. Since almost from the beginning, I have had 2 “child” package.json files, one for the backend and one for the frontend, and the “main” one in the project root.

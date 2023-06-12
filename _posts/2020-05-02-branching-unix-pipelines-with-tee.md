@@ -2,6 +2,8 @@
 layout: post
 title: Branching UNIX pipelines with tee
 date: 2020-05-02 14:15 +0300
+tags: []
+categories: []
 ---
 
 I have a confession to make: I’m a bit of a UNIX geek. You can tell that by looking at my [dot-files][0] and also by the fact that I have a `Makefile` in most of my repos.

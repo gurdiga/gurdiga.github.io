@@ -2,6 +2,8 @@
 layout: post
 title: Testing location change in JS
 date: '2016-04-05T08:00:22+03:00'
+tags: [js, unit-testing]
+categories: []
 ---
 Every now and then I come across a scenario where I need to unit-test
 some code that navigates across pages by directly changing location.

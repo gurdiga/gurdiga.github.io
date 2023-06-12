@@ -2,6 +2,8 @@
 layout: post
 title: 'FP vs. OOP: input'
 date: '2015-06-13T13:05:01+03:00'
+tags: [js]
+categories: []
 ---
 I often think about how Functional Programming (FP) compares to Object
 Oriented Programming (OOP).

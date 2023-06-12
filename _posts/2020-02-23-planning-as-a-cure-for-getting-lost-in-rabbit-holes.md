@@ -2,6 +2,8 @@
 layout: post
 title: Planning as a cure for getting lost in rabbit holes
 date: 2020-02-23 19:36 -0800
+tags: []
+categories: []
 ---
 
 One thing that I didn’t feel completely content with regards to the work on my side project was that I sometimes was getting lost down some rabbit holes, mostly on technical matters, like getting some makefile right or getting types right in TypeScript. This could take entire mornings with nothing to show for, and when this came out a couple of times during my own weekly [retrospective][0], I decided I should do something about it.

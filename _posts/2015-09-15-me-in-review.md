@@ -2,6 +2,8 @@
 layout: post
 title: Me in review
 date: '2015-09-15T22:35:04+03:00'
+tags: []
+categories: []
 ---
 6 weeks ago I have switched jobs. It’s a big change and it’s also good
 time to review other big things.

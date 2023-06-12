@@ -2,6 +2,8 @@
 layout: post
 title: 'One tip on writing: be concrete'
 date: '2015-12-26T23:27:51+02:00'
+tags: [writing]
+categories: []
 ---
 Every now and then, I set out to write an article about some Grand Idea®
 that just came to me. It usually happens when I read something dramatic

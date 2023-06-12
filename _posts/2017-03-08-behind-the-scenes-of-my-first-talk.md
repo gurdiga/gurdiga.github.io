@@ -2,7 +2,8 @@
 layout: post
 title: Behind the scenes of my first talk
 date: 2017-03-08 22:11
-categories:
+tags: []
+categories: []
 ---
 A couple of weeks ago I gave a talk at our local JavaScript meetup. It
 was my first talk ever, and, as you can probably imagine, I had a couple
@@ -38,9 +39,9 @@ The result was mostly discouraging; for 2 reasons:
 
 On the next day, George asked:
 
-— How is it going?  
+— How is it going?
 — Err… I’m glad I gave it internally first… I’ve got some good feedback…
-I’ll look over it this weekend.  
+I’ll look over it this weekend.
 — Hey, what’s to fuss that much about?! You know what you’re talking
 about, don’t you?
 

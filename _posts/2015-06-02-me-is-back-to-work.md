@@ -2,6 +2,8 @@
 layout: post
 title: Me is back to work
 date: '2015-06-02T19:52:42+03:00'
+tags: []
+categories: []
 ---
 This my first day back to my day-job at Assembla. My plan is to find an
 hour every day to work on my project.

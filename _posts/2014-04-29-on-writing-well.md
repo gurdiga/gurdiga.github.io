@@ -2,6 +2,8 @@
 layout: post
 title: On Writing Well
 date: '2014-04-29T10:12:00+03:00'
+tags: [writing]
+categories: []
 ---
 This morning I got to the “Business Writing: Writing in Your Job”
 chapter in the “On Writing Well” book by William Zinsser. I found many
@@ -130,7 +132,7 @@ the examples aloud. Later we would see if they could turn what they had
 written into plain English. This was my first example:
 
 > Dear Parent:
-> 
+>
 > We have established a special phone communication system to provide
 > additional opportunities for parent input. During this year we will
 > give added emphasis to the goal of communication and utilize a variety
@@ -139,7 +141,7 @@ written into plain English. This was my first example:
 > educational plan that meets the needs of your child. An open dialogue,
 > feedback and sharing of information between parents and teachers will
 > enable us to work with your child in the most effective manner.
-> 
+>
 > DR. GEORGE B. JONES<br/>
 > Principal
 
@@ -207,7 +209,7 @@ with humanity:
 > It seems that traffic is beginning to pile up again in front of the
 > school. If you can possibly do so, please come to the rear of the
 > school for your child at the end of the day.
-> 
+>
 > I would appreciate it if you would speak with your children about
 > their behavior in the cafeteria. Many of you would be totally dismayed
 > if you could observe the manners of your children while they are
@@ -220,7 +222,7 @@ educating, they vanished without a trace:
 > In this document you will find the program goals and objectives that
 > have been identified and prioritized. Evaluative procedures for the
 > objectives were also established based on acceptable criteria.
-> 
+>
 > Prior to the implementation of the above practice, students were given
 > very little exposure to multiple choice questions. It is felt that the
 > use of practice questions correlated to the unit that a student is

@@ -2,6 +2,8 @@
 layout: post
 title: To throw or not to throw
 date: '2016-01-10T22:00:59+02:00'
+tags: []
+categories: []
 ---
 I’m working on a little basket widget, and while thinking about the
 model I caught myself unsure about how to handle validation errors. For

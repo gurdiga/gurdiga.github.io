@@ -2,6 +2,8 @@
 layout: post
 title: Timing out JS promises
 date: '2014-09-17T09:32:00+03:00'
+tags: [js]
+categories: []
 ---
 When wrapping an API client I found myself wanting to set a timeout for
 promise-based methods. I first used setTimeout to reject the deferred

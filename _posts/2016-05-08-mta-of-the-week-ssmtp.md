@@ -2,6 +2,8 @@
 layout: post
 title: 'MTA of the week: sSMTP'
 date: '2016-05-08T11:35:11+03:00'
+tags: [email]
+categories: []
 ---
 I fiddled with a couple of servers in the past weeks and one of the
 things I needed immediately was email. I wanted to allow `cron` and the
@@ -25,7 +27,7 @@ couple of snippets of its README:
 > like).  This program accepts mail and sends it to the mailhub,
 > optionally replacing the domain in the From: line with a different
 > one.
-> 
+>
 > WARNING: the above is all it does. It does not receive mail, expand
 > aliases or manage a queue.  That belongs on a mailhub with a system
 > administrator. […] It uses a minimum of external configuration

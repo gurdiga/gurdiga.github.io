@@ -2,6 +2,8 @@
 layout: post
 title: Make is still alive and kicking
 date: '2016-02-04T14:56:51+02:00'
+tags: [make]
+categories: []
 ---
 I do most of my work in the console, and when I work on a task, I
 usually have a task-specific `Makefile`.

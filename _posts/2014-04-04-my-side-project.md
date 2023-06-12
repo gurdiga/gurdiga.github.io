@@ -2,6 +2,8 @@
 layout: post
 title: My side project
 date: '2014-04-04T10:57:00+03:00'
+tags: []
+categories: []
 ---
 
 After last night’s “JavaScript MVC Frameworks” meeting I was super excited, in a way¹. As a result I woke up at 3 in the morning and went to my stand-up² table in the kitchen and started to tackle the app-sleeping issue with my free one-dyno xo-scripts app at Heroku that was supposed to do some daily data pluck-and-store, and for some reason didn’t in the last month or so. Got it working and added a reminder to my GCanlendar to periodically verify it works and a plan-B³ in case this doesn’t work in the long term.

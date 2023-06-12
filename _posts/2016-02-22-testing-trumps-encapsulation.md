@@ -2,6 +2,8 @@
 layout: post
 title: Testing trumps encapsulation
 date: '2016-02-22T16:37:54+02:00'
+tags: [unit-testing]
+categories: []
 ---
 At some point I have
 [heard](https://8thlight.com/blog/uncle-bob/2015/06/30/the-little-singleton.html)

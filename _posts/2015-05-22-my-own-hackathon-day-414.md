@@ -2,6 +2,8 @@
 layout: post
 title: 'My own hackathon: day 4/14'
 date: '2015-05-22T19:19:46+03:00'
+tags: []
+categories: []
 ---
 Today I worked pretty smooth once I got into the flow. And I feel a bit more tired than usual and I have some theories on why.
 

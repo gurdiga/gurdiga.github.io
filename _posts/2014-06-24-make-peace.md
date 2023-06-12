@@ -2,6 +2,8 @@
 layout: post
 title: Make peace
 date: '2014-06-24T12:19:00+03:00'
+tags: []
+categories: []
 ---
 It’s innate for any human being to try to understand how things work. I
 will share my reasoning on why my life is as good as it is. I plan to
