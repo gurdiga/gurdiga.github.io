@@ -19,7 +19,7 @@ To do the filtering I needed a list of known bot user-agent names, and when I co
 Here is the UNIX pipeline that I used to extract it:
 
 ```sh
-base_re='\w*(bot|crawler)\w*'
+base_re='\w*(bot|crawler|spider)\w*'
 
 zcat -f /var/log/access.log* | # look into compressed and uncompressed logs
 grep -Eoi '" [0-9]+ [0-9]+ ".*'"$base_re" | # only lines with something-BOT-something in the UA string (or referrer)
