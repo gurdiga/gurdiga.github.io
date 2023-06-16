@@ -11,5 +11,10 @@ code {
     font-size: 16px !important;
 }
 
+body:not(.layout--home) .site-logo {
+    display: none;
+}
+
+// This import has to come last
 @import "so-simple";
 
