@@ -4,7 +4,7 @@ logo: /images/gravatar.jpg
 description: >-
   This is my personal blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gurdiga.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /blog/:year/:month/:day/:title/
 twitter_username:
 github_username:
