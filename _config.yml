@@ -1,5 +1,5 @@
 title: Geeky stories
-author: me
+author: Vlad GURDIGA
 logo: /images/gravatar.jpg
 description: >-
   This is my personal blog
@@ -15,6 +15,7 @@ remote_theme: "mmistakes/so-simple-theme@7c881be"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
 
 feed:
   path: atom.xml

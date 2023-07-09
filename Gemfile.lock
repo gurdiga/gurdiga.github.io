@@ -277,6 +277,7 @@ DEPENDENCIES
   jekyll-compose
   jekyll-feed (~> 0.6)
   jekyll-paginate
+  jekyll-sitemap
   jekyll-theme-so-simple
   kramdown-parser-gfm
   tzinfo (~> 1.2)
