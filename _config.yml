@@ -2,7 +2,7 @@ title: Geeky stories
 author: Vlad GURDIGA
 logo: /images/gravatar.jpg
 description: >-
-  This is my personal blog
+  My personal blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gurdiga.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /blog/:year/:month/:day/:title/
