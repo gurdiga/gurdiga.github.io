@@ -273,7 +273,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
-  jekyll (~> 3.9.2)
+  jekyll (~> 3.9.3)
   jekyll-compose
   jekyll-feed (~> 0.6)
   jekyll-paginate
