@@ -1,0 +1,27 @@
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<style>
+  @font-face {
+    font-family: Bookerly;
+    src: url("/assets/bookerly/Bookerly-Regular.ttf");
+  }
+
+	/* Firefox does not support `color-scheme: light dark` */
+	@media (prefers-color-scheme: dark) {
+		body { background: #2b2a33; color: #fbfbfb; }
+	}
+
+  :root {
+    color-scheme: light dark;
+    font-family: Bookerly;
+    padding-bottom: 20vh;
+    opacity: 0.8;
+    padding: 1rem 0.5rem;
+
+    max-width: 36rem;
+    margin: 0 auto;
+    line-height: 1.7
+  }
+</style>
+
+<body contenteditable="true" >Write here.</body>
