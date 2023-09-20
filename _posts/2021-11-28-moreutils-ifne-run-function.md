@@ -2,7 +2,7 @@
 layout: post
 title: moreutils ifne run function
 date: 2021-11-28 13:00 +0200
-tags: []
+tags: [unix, scripting, grep]
 categories: []
 ---
 
