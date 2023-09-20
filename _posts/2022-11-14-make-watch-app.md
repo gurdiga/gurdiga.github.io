@@ -3,7 +3,6 @@ layout: post
 title: make watch-app
 date: 2022-11-14 05:18 +0200
 tags: [make, unix, shell-scripting]
-tags: []
 categories: []
 ---
 
