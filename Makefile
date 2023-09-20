@@ -97,5 +97,4 @@ favicon.ico: favicon.png
 tagging:
 	@:
 	grep -Rl 'tags: \[]' _posts/ |
-	head -1 |
 	xargs code -n .
