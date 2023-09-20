@@ -2,7 +2,7 @@
 layout: post
 title: Google Apps Script
 date: 2021-12-19 21:02 +0200
-tags: []
+tags: [google apps script]
 categories: []
 ---
 
