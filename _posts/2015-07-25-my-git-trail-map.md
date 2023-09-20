@@ -2,7 +2,7 @@
 layout: post
 title: My Git trail map
 date: '2015-07-25T20:34:53+03:00'
-tags: []
+tags: [git, learning]
 categories: []
 ---
 In my last article I said that I have started a little study by
