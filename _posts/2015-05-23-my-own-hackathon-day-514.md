@@ -2,7 +2,7 @@
 layout: post
 title: 'My own hackathon: day 5/14'
 date: '2015-05-23T20:30:24+03:00'
-tags: []
+tags: [coding, hackathon]
 categories: []
 ---
 Today it’s a different day, it’s Saturday: until afternoon I dug

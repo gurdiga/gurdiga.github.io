@@ -2,7 +2,7 @@
 layout: post
 title: My way to test web UIs
 date: '2015-08-23T22:22:53+03:00'
-tags: []
+tags: [coding, tdd]
 categories: []
 ---
 I remember how amazed I was while reading Kent Beck’s “Test Driven

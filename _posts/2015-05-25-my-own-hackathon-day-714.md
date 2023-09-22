@@ -2,7 +2,7 @@
 layout: post
 title: 'My own hackathon: day 7/14'
 date: '2015-05-25T17:47:09+03:00'
-tags: []
+tags: [coding, hackathon]
 categories: []
 ---
 Monday. In the morning I have watched the React video course on

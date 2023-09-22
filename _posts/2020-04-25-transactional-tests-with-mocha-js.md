@@ -2,7 +2,7 @@
 layout: post
 title: Transactional tests with Mocha.js
 date: 2020-04-25 21:39 +0300
-tags: []
+tags: [coding, tdd, js, side-projects]
 categories: []
 ---
 

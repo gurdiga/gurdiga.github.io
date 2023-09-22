@@ -2,7 +2,7 @@
 layout: post
 title: My explanation of DCI
 date: '2015-08-09T17:44:01+03:00'
-tags: []
+tags: [coding]
 categories: []
 ---
 In the [episode 21](http://giantrobots.fm/21) of “Giant Robots” podcast

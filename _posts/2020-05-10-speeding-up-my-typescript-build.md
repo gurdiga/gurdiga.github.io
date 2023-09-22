@@ -2,7 +2,7 @@
 layout: post
 title: Speeding up my TypeScript build
 date: 2020-05-10 22:25 +0300
-tags: []
+tags: [coding, build, ts, side-projects]
 categories: []
 ---
 

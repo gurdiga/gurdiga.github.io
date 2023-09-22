@@ -2,7 +2,7 @@
 layout: post
 title: My new notion of web app
 date: '2015-05-11T18:21:58+03:00'
-tags: []
+tags: [coding, side-projects, constraints]
 categories: []
 ---
 One of my side projects that I’ve been toying with, is a productivity

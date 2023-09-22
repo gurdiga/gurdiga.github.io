@@ -3,7 +3,7 @@ layout: post
 title: "My new favorite thing: Type systems"
 date: 2017-04-08 12:14
 published: false
-tags: []
+tags: [js, ts, types, coding]
 categories: []
 ---
 

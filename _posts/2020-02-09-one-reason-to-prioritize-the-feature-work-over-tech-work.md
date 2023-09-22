@@ -2,7 +2,7 @@
 layout: post
 title: One reason to prioritize the feature work over tech work
 date: 2020-02-09 12:40 +0200
-tags: []
+tags: [coding, productivity, balance, side-projects]
 categories: []
 ---
 

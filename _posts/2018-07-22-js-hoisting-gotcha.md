@@ -2,7 +2,7 @@
 layout: post
 title: JS hoisting gotcha
 date: 2018-07-22 13:49 +0300
-tags: []
+tags: [js, coding]
 categories: []
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Email server setup with SPF, DKIM, and DMARC
 date: 2021-08-19 20:24 +0300
-tags: []
+tags: [smtp, dns, infrastructure]
 categories: []
 ---
 

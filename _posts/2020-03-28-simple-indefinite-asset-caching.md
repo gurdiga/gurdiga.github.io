@@ -2,7 +2,7 @@
 layout: post
 title: Simple indefinite asset caching
 date: 2020-03-28 19:33 +0200
-tags: []
+tags: [coding]
 categories: []
 ---
 

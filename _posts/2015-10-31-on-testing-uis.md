@@ -2,7 +2,7 @@
 layout: post
 title: On testing UIs
 date: '2015-10-31T10:46:17+02:00'
-tags: []
+tags: [coding, tdd, css]
 categories: []
 ---
 I have heard that people resist testing UIs because “they change often”,

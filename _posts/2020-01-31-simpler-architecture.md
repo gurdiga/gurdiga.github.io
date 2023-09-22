@@ -2,7 +2,7 @@
 layout: post
 title: Simpler architecture
 date: 2020-01-31 09:01 +0200
-tags: []
+tags: [coding, dependencies, architecture]
 categories: []
 ---
 

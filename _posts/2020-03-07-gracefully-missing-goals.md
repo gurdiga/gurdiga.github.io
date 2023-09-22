@@ -2,7 +2,7 @@
 layout: post
 title: Gracefully missing goals
 date: 2020-03-07 13:16 +0200
-tags: []
+tags: [productivity]
 categories: []
 ---
 

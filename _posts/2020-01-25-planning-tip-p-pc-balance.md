@@ -2,7 +2,7 @@
 layout: post
 title: 'Planning tip: P/PC Balance'
 date: 2020-01-25 13:15 +0200
-tags: []
+tags: [productivity, coding, writing]
 categories: []
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Trail maps
 date: '2015-07-19T14:19:41+03:00'
-tags: []
+tags: [coding, learning]
 categories: []
 ---
 I don’t have a CS degree, and most of what I know I’ve learned along the

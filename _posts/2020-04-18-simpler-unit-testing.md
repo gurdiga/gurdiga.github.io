@@ -2,7 +2,7 @@
 layout: post
 title: Simpler unit testing
 date: 2020-04-18 10:49 +0300
-tags: []
+tags: [coding, tdd, side-projects]
 categories: []
 ---
 

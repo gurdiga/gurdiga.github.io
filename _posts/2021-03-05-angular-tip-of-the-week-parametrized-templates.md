@@ -2,7 +2,7 @@
 layout: post
 title: 'Angular tip of the week: parametrized templates'
 date: 2021-03-05 19:23 +0200
-tags: []
+tags: [coding, angular]
 categories: []
 ---
 

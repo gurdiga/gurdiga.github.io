@@ -2,7 +2,7 @@
 layout: post
 title: Simpler third-party integrations
 date: 2020-06-13 16:07 +0300
-tags: []
+tags: [coding, dependencies, architecture]
 categories: []
 ---
 
