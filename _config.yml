@@ -8,6 +8,7 @@ url: "https://gurdiga.com" # the base hostname & protocol for your site, e.g. ht
 permalink: /blog/:year/:month/:day/:title/
 twitter_username:
 github_username:
+repo: https://github.com/gurdiga/gurdiga.github.io/
 
 # Build settings
 markdown: kramdown
