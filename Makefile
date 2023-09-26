@@ -98,3 +98,6 @@ tagging:
 	@:
 	grep -Rl 'tags: \[]' _posts/ |
 	xargs code -n .
+
+audit:
+	bundle-audit
