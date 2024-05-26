@@ -103,3 +103,8 @@ tagging:
 
 audit:
 	bundle-audit
+
+install:
+	bundle install
+
+i: install
