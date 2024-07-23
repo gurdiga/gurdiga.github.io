@@ -101,10 +101,14 @@ tagging:
 	grep -Rl 'tags: \[]' _posts/ |
 	xargs code -n .
 
+a: audit
 audit:
-	bundle-audit
+	bundle exec bundle-audit
 
-install:
-	bundle install
+au: audit-update
+audit-update:
+	bundle exec bundle-audit update
 
 i: install
+install:
+	bundle install
