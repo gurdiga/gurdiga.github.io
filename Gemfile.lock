@@ -276,6 +276,7 @@ PLATFORMS
 DEPENDENCIES
   activesupport (>= 6.1.7.5)
   bundle-audit
+  bundler-audit
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll (~> 3.9.3)
@@ -285,6 +286,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-theme-so-simple
   kramdown-parser-gfm
+  rexml
   wdm (~> 0.1.0)
   webrick
 

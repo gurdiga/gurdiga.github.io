@@ -49,3 +49,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "bundle-audit"
 gem "activesupport", ">= 6.1.7.5"
+gem "rexml"
