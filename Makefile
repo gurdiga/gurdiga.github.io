@@ -112,3 +112,7 @@ audit-update:
 i: install
 install:
 	bundle install
+
+u: update
+update:
+	bundle update
