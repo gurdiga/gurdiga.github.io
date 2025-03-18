@@ -41,6 +41,6 @@ invent or google answers.
 What I’m trying to say here is that if we want answers to stick, we need
 to bring them up after the questions appear. If we’ll start with a
 policy like “AS OF TODAY, WE’LL TDD ALL THE THINGS!” it will work with
-as much success as our modern education system. If we try to poor wisdom
+as much success as our modern education system. If we try to pour wisdom
 in people’s brains, as valuable as it may be, it will only stick as much
 as it answers their questions.
