@@ -17,7 +17,7 @@ stuck for more than a few sporadic articles on things that did matter to
 me at each of those times. This time I want to try something different.
 
 I usually spend my Saturdays in the office, to work on my things outside
-day-work,  for example on my side project. I want to take some of that
+of the day-job, for example on my side project. I want to take some of that
 time to look at what happened during the week and pick of a subject to
 write about.
 
