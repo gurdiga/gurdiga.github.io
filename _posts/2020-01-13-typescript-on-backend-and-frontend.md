@@ -2,7 +2,7 @@
 layout: post
 title: TypeScript on backend and frontend
 date: 2020-01-13 08:45 +0200
-tags: []
+tags: [typescript, architecture, side-projects, development]
 ---
 
 One awesome thing about side projects that I get out of a side project is that I get to try my fanciest ideas. On [the most recent side project][1], one thing that I got to try is sharing TypeScript logic and types between frontend and backend code.

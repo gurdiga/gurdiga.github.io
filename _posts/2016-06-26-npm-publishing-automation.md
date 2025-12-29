@@ -2,7 +2,7 @@
 layout: post
 title: NPM publishing automation
 date: '2016-06-26T12:46:02+03:00'
-tags: []
+tags: [npm, automation, make, tools]
 ---
 I have a small module on NPM and I found myself tweaking it more than a
 few times lately. One piece of routine related to this kind of work is

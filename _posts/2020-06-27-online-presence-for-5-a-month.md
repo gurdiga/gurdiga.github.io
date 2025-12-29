@@ -2,7 +2,7 @@
 layout: post
 title: Online presence for $5 a month
 date: 2020-06-27 13:25 +0300
-tags: []
+tags: [infrastructure, deployment, web, email]
 ---
 A few months ago a friend asked for help with the degrading quality of their web host. At that time they had an old all-in-one service that was hosting their static website that they edited by hand, DNS, and email. I have done that a couple more times for the domains that I owned and for my other people, and I offered my “solution”:
 

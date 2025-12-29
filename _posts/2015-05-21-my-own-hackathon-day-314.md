@@ -2,7 +2,7 @@
 layout: post
 title: 'My own hackathon: day 3/14'
 date: '2015-05-21T18:43:19+03:00'
-tags: []
+tags: [side-projects, development, productivity, frameworks]
 ---
 In the morning I’ve spent some more time thinking and googling around
 about automated testing. Not finding anything that I would like to give

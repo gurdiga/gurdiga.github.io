@@ -2,7 +2,7 @@
 layout: post
 title: 'bind: warning: line editing not enabled'
 date: 2018-04-14 15:55 +0300
-tags: []
+tags: [bash, make, debugging, tools]
 ---
 
 The other day I was writing a Makefile which involved

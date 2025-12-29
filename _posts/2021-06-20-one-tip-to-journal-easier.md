@@ -2,7 +2,7 @@
 layout: post
 title: One tip to journal easier
 date: 2021-06-20 20:56 +0300
-tags: []
+tags: [writing, productivity, life]
 ---
 
 If I were to give a single piece of advice for easier journaling it would be this: make it handy.

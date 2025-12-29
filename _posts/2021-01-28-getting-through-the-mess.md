@@ -2,7 +2,7 @@
 layout: post
 title: Getting through the mess
 date: 2021-01-28 09:52 +0200
-tags: []
+tags: [refactoring, angular, typescript, debugging]
 ---
 
 Every now and then I end up in a messy codebase. It’s scary and discouraging to try to fix a bug in there.

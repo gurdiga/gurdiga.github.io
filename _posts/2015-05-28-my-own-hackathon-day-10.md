@@ -2,7 +2,7 @@
 layout: post
 title: 'My own hackathon: day 10'
 date: '2015-05-28T23:23:17+03:00'
-tags: []
+tags: [side-projects, web, productivity]
 ---
 Yesterday I traveled to Bucharest (and I have slept the first half of
 the today to recover).

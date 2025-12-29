@@ -2,7 +2,7 @@
 layout: post
 title: My random thought of the day
 date: '2015-05-23T16:48:32+03:00'
-tags: []
+tags: [work, philosophy, life]
 ---
 Having your own business is in many ways similar to being employed: you
 make a long-term commitment, you take on some responsibility, you do the

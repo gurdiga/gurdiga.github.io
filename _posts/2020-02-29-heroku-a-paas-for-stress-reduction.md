@@ -2,7 +2,7 @@
 layout: post
 title: 'Heroku: a PaaS for stress reduction'
 date: 2020-02-29 12:47 -0800
-tags: []
+tags: [deployment, cloud, infrastructure, side-projects]
 ---
 
 One of the items that I had planned for this sprint was to fix the deployment system. Well, the “system” is a bit too grandiose for [a Bash pipeline][1] in the `Makefile`. The essence is that I didn’t pay too much attention to it after a couple of initial deploys, and then one day I went to the public URL and the app didn’t come up. I logged into the DigitalOcean server, and felt lost: didn’t really remember the commands to check for the system service status, didn’t know how to verify if the code is up to date.

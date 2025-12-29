@@ -2,7 +2,7 @@
 layout: post
 title: About switching jobs
 date: 2020-10-20 10:00 +0300
-tags: []
+tags: [work, life, philosophy]
 ---
 
 I have recently switched jobs. This is the main reason why I haven’t written on my blog for a while: I wanted to focus on getting familiar with the new household.

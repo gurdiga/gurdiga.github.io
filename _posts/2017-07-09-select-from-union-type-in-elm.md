@@ -2,7 +2,7 @@
 layout: post
 title: Select from union type in Elm
 date: 2017-07-09 16:55
-tags: []
+tags: [elm, fp, patterns, web]
 ---
 One of the things that attracted me early on in Elm were the [union
 types](https://guide.elm-lang.org/types/union_types.html): Having the compiler

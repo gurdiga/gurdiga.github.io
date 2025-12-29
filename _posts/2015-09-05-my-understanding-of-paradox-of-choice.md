@@ -2,7 +2,7 @@
 layout: post
 title: My understanding of “paradox of choice”
 date: '2015-09-05T13:07:33+03:00'
-tags: []
+tags: [philosophy, life]
 ---
 There was a video on TED called “The paradox of choice.” I have never
 agreed with this idea that more options make the choice harder. I have

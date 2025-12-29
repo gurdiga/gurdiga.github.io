@@ -2,7 +2,7 @@
 layout: post
 title: Composing Elm on week 5
 date: 2017-07-01 19:28
-tags: []
+tags: [elm, fp, architecture, learning]
 ---
 A few weeks ago I have set out to try Elm on [a toy project of
 mine](https://github.com/gurdiga/xo.elm). The experience was like learning to

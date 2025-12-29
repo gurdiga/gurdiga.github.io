@@ -2,7 +2,7 @@
 layout: post
 title: 'Simpler architecture: validation and error handling'
 date: 2020-03-16 20:45 +0200
-tags: []
+tags: [typescript, architecture, patterns, side-projects]
 ---
 
 Today I would like to explain how I arrange validation and error handling on my [side project][1]. One useful outcome of using TypeScript on both sides — backend and frontend — is that I get to share the data structures, error states, and also the validation logic. And it’s not as much about sharing the code itself, but about **the ability to keep the two sides aligned as the code evolves**.

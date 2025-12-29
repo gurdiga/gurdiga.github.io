@@ -2,7 +2,7 @@
 layout: post
 title: 'FeedBurner alternative: Follow.it'
 date: 2021-06-08 09:10 +0300
-tags: []
+tags: [blogging, tools, web]
 ---
 Last week I helped a friend move their blog subscribers from FeedBurner to Follow.it.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Behind the scenes of my first talk
 date: 2017-03-08 22:11
-tags: []
+tags: [speaking, typescript, life, work]
 ---
 A couple of weeks ago I gave a talk at our local JavaScript meetup. It
 was my first talk ever, and, as you can probably imagine, I had a couple

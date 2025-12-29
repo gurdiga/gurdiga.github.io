@@ -2,7 +2,7 @@
 layout: post
 title: Make tests less repetitive
 date: 2020-07-11 16:04 +0300
-tags: []
+tags: [testing, typescript, programming, side-projects]
 ---
 
 On [my side project][0], I strive to have as good of a unit-test coverage as I can. Because I define the input and every outputs of a scenario handler, there can be a lot of execution paths to unit-test, and so it can get pretty tedious to cover all of them. This is why I’m employing a technique that resembles [data-driven testing][1].

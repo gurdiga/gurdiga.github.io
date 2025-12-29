@@ -2,7 +2,7 @@
 layout: post
 title: My HTML & CSS trail map
 date: '2015-08-02T16:36:55+03:00'
-tags: []
+tags: [html, css, learning, web]
 ---
 2 articles ago I started a little study by following
 [thoughtbot’s trail maps](https://github.com/thoughtbot/trail-map).

@@ -2,7 +2,7 @@
 layout: post
 title: Markdown lists with vim
 date: 2018-03-28 20:29
-tags: []
+tags: [vim, markdown, tools, productivity]
 ---
 
 The other day I found myself copy-pasting some Google Docs texts into [a new
