@@ -3,7 +3,6 @@ layout: post
 title: My 3 “Why Angular”s
 date: '2014-04-03T17:41:00+03:00'
 tags: [js]
-categories: []
 ---
 
 In a previous post I said that I recently went to a JS meet up, and I

@@ -3,7 +3,6 @@ layout: post
 title: 'My new use for Workflowy: rambling'
 date: '2016-01-04T11:40:22+02:00'
 tags: [writing]
-categories: []
 ---
 I usually keep my project notes in Workflowy¹ and today I found a new
 handy thing I can do within it: ramble.

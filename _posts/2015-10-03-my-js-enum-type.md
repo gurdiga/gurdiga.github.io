@@ -3,7 +3,6 @@ layout: post
 title: My JS enum type
 date: '2015-10-03T18:54:44+03:00'
 tags: [js]
-categories: []
 ---
 For my `PersonSection` widget I needed to have a `PERSON_TYPES` constant.
 

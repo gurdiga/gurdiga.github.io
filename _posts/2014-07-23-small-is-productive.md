@@ -3,7 +3,6 @@ layout: post
 title: Small is productive
 date: '2014-07-23T15:26:17+03:00'
 tags: []
-categories: []
 ---
 Last Friday, on my way home, I was wondering why did spend that long
 hours every day of the week. And the week before? I was getting work

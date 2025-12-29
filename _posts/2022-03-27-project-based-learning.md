@@ -3,7 +3,6 @@ layout: post
 title: Project-based learning
 date: 2022-03-27 18:46 +0200
 tags: [learning]
-categories: []
 ---
 
 Recently I was discussing with a friend that was thinking about developing some programming skills.

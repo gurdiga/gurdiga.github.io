@@ -3,7 +3,6 @@ layout: post
 title: On DHH on TDD
 date: '2014-05-01T10:46:00+03:00'
 tags: []
-categories: []
 ---
 It’s not that I could argue with DHH regarding TDD—in technology he’s at
 a level that I may never reach. Mr. Kent Beck had his say on that

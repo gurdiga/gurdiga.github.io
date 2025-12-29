@@ -3,7 +3,6 @@ layout: post
 title: A reality check
 date: '2016-03-24T09:36:04+02:00'
 tags: []
-categories: []
 ---
 I have a friend. He was a lawyer, but a few months ago he realized he
 doesn’t enjoy it, and decided to change countries and profession: he

@@ -3,7 +3,6 @@ layout: post
 title: My 3 Why TypeScript
 date: 2017-02-25T12:30:46+00:00
 tags: []
-categories: []
 ---
 
 The other day I [gave a short

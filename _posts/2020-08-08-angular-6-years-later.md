@@ -3,7 +3,6 @@ layout: post
 title: Angular 6 years later
 date: 2020-08-08 18:36 +0300
 tags: []
-categories: []
 ---
 
 In 2014, [I wrote about][1] a couple of things that I liked about Angular, then at v1.4, I think. Now, as I’m getting on Angular at my new job, and I’d like to share the things I like again. So far, the concepts seem familiar, and I will only comment on the things that jump at me, from the perspective of a newcomer.

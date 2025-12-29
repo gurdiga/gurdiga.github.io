@@ -3,7 +3,6 @@ layout: post
 title: The “C” in CSS
 date: '2015-09-19T19:26:46+03:00'
 tags: [css]
-categories: []
 ---
 One of the first things that I learned about CSS is that it cascades.
 Cascading is a lot like inheritance in OOP. It’s useful for the same

@@ -3,7 +3,6 @@ layout: post
 title: On Writing Well
 date: '2014-04-29T10:12:00+03:00'
 tags: [writing]
-categories: []
 ---
 This morning I got to the “Business Writing: Writing in Your Job”
 chapter in the “On Writing Well” book by William Zinsser. I found many

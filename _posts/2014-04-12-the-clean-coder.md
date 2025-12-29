@@ -3,7 +3,6 @@ layout: post
 title: The Clean Coder
 date: '2014-04-12T14:37:00+03:00'
 tags: []
-categories: []
 ---
 I just finished reading Robert C. Martin’s book “The Clean Coder”.
 

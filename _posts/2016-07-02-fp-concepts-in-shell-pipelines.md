@@ -3,7 +3,6 @@ layout: post
 title: FP concepts in shell pipelines
 date: '2016-07-02T15:26:12+03:00'
 tags: []
-categories: []
 ---
 The other day I was faced with a little task at work: find in the
 current repository subdirectories that contain a file named

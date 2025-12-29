@@ -3,7 +3,6 @@ layout: post
 title: 'Hello world!'
 date: '2014-04-02T17:41:00+03:00'
 tags: []
-categories: []
 ---
 
 Hello world! Again!

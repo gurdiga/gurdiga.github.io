@@ -3,7 +3,6 @@ layout: post
 title: One reason to write
 date: '2014-05-11T09:39:00+03:00'
 tags: [writing]
-categories: []
 ---
 As I mentioned in my previous article, I just finished reading the book
 “On Writing Well” by William Zinsser. I want to clarify a bit why am I

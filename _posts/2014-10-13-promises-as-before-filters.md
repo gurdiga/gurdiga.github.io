@@ -3,7 +3,6 @@ layout: post
 title: Promises as before filters
 date: '2014-10-13T11:21:00+03:00'
 tags: [js]
-categories: []
 ---
 The Firebase JS library is callback-based, which feels pretty cumbersome after I got used to promises. So, the other day I wanted to have a FirebaseClient object that given a Firebase URL and credentials would give me a simple way to read and write data to it, something like this:
 

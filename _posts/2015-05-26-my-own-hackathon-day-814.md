@@ -3,7 +3,6 @@ layout: post
 title: 'My own hackathon: day 8/14'
 date: '2015-05-26T20:28:01+03:00'
 tags: [coding, hackathon]
-categories: []
 ---
 Today I worked on getting the data collection/population of the case
 entry form.

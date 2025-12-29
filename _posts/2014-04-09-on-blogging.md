@@ -3,7 +3,6 @@ layout: post
 title: On blogging
 date: '2014-04-09T19:48:00+03:00'
 tags: [writing]
-categories: []
 ---
 One thing that I found interesting in the “Apprenticeship Patterns” book
 is the emphasis it puts on blogging. It’s not that this surprised me, I

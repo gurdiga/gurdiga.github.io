@@ -3,7 +3,6 @@ layout: post
 title: Email server setup with SPF, DKIM, and DMARC
 date: 2021-08-19 20:24 +0300
 tags: [smtp, dns, infrastructure]
-categories: []
 ---
 
 I have recently played with the idea of setting up an SMTP server for a friend’s custom domain, and wanted to share the working setup.

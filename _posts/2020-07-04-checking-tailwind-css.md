@@ -3,7 +3,6 @@ layout: post
 title: Checking Tailwind CSS
 date: 2020-07-04 16:28 +0300
 tags: []
-categories: []
 ---
 
 One of the things on [my side project][0] that I felt iffy for some time is the UI toolkit. I have gathered notes, links, fonts, but I have held back from actually trying anything so far. I wanted to first have a robust setup that would allow me to add functionality, frontend and backend. Having that more or less in place, the goal that I had set for this sprint was to look for a UI toolkit. I have recently heard about Tailwind CSS on [“The Art of Product” podcast][1] and I made a note to take a look at it.

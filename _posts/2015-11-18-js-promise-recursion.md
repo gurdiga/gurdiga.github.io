@@ -3,7 +3,6 @@ layout: post
 title: JS promise recursion
 date: '2015-11-18T20:31:53+02:00'
 tags: [js]
-categories: []
 ---
 The other day I wanted to get some data from an API. The API is giving
 the information paginated, so I have to fetch it page by page.

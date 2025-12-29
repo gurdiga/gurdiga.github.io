@@ -3,7 +3,6 @@ layout: post
 title: OOP and FP nicely mixed in JS
 date: '2015-10-19T04:39:42+03:00'
 tags: [js]
-categories: []
 ---
 OOP wants together behavior and data that change together. FP wants
 behavior and data separate so that the behavior can be used with more

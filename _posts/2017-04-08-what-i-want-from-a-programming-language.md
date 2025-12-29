@@ -4,7 +4,6 @@ title: "My new favorite thing: Type systems"
 date: 2017-04-08 12:14
 published: false
 tags: [js, ts, types, coding]
-categories: []
 ---
 
 *Note: This article is valuable for JavaScript developers that find it

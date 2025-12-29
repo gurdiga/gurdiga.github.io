@@ -3,7 +3,6 @@ layout: post
 title: Still Bash-scripting in 2020
 date: 2020-06-07 15:19 +0300
 tags: []
-categories: []
 ---
 
 Bash scripting still turns out useful, even in 2020. 😉

@@ -3,7 +3,6 @@ layout: post
 title: 'Vim: recursive iabbrev'
 date: '2016-04-08T09:00:49+03:00'
 tags: [vim]
-categories: []
 ---
 *TLDR*: Although
 [Vim documentation](http://vimdoc.sourceforge.net/htmldoc/map.html#Abbreviations)

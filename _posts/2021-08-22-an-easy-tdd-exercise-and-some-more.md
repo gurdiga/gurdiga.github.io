@@ -3,7 +3,6 @@ layout: post
 title: An easy TDD exercise and some more
 date: 2021-08-22 12:57 +0300
 tags: []
-categories: []
 ---
 
 A couple of months ago I’ve set out to write a lil [RSS-checking program][0] that I thought would be useful for a friend. As a small green-field project, I thought it’s going to be perfect to — once again — try that hippy TDD method that everyone was talking about 10 years ago. In retrospect, a few things came in really handy while writing this program, and wanted to share them.

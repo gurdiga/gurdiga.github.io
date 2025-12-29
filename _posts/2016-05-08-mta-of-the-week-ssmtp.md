@@ -3,7 +3,6 @@ layout: post
 title: 'MTA of the week: sSMTP'
 date: '2016-05-08T11:35:11+03:00'
 tags: [email]
-categories: []
 ---
 I fiddled with a couple of servers in the past weeks and one of the
 things I needed immediately was email. I wanted to allow `cron` and the

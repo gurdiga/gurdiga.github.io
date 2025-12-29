@@ -3,7 +3,6 @@ layout: post
 title: Simpler architecture
 date: 2020-01-31 09:01 +0200
 tags: [coding, dependencies, architecture]
-categories: []
 ---
 
 On the side-project that [I’ve mentioned before][1], I’m making a priority of 2 things: (1) use the least amount of libraries and frameworks, and (2) organize the code in a way that reflects the logical structure of the app.

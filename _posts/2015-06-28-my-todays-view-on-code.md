@@ -3,7 +3,6 @@ layout: post
 title: My today’s view on code
 date: '2015-06-28T01:15:02+03:00'
 tags: [dev]
-categories: []
 ---
 This morning I have finished watching a course on Frontend Masters. It’s
 called “[Hardcore Functional Programming in

@@ -3,7 +3,6 @@ layout: post
 title: Promise array sequence
 date: '2016-11-08T11:51:03+02:00'
 tags: []
-categories: []
 ---
 The other day at work, as during a proof-of-concept task, I needed to
 take a screenshot of a list of HTML pages, but massage them a bit before

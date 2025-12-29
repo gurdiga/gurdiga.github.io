@@ -3,7 +3,6 @@ layout: post
 title: Why I like function hoisting in JS
 date: '2015-09-30T12:00:45+03:00'
 tags: [js]
-categories: []
 ---
 There is this phenomenon in JS called “function hoisting.” It’s regarded
 as odd to newcomers but I found it improving code readability and use it

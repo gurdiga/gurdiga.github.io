@@ -3,7 +3,6 @@ layout: post
 title: 'Angular tip of the week: parametrized templates'
 date: 2021-03-05 19:23 +0200
 tags: [coding, angular]
-categories: []
 ---
 
 On my 30-th week of Angular, I learned something that I was looking for since the first week: a lightweight way to get a “parametrized” piece of view. Coming from a couple of years of React, I was used to having function components to abstract away noisy bits of a view, and for some time I thought the only way to get that is to get such a thing.

@@ -3,7 +3,6 @@ layout: post
 title: Choice is a search
 date: '2016-01-24T22:35:47+02:00'
 tags: [peace, clarity]
-categories: []
 ---
 From time to time I stumble upon yet another article mentioning that
 humans are just bad at choices. I think accepting it as a truth is

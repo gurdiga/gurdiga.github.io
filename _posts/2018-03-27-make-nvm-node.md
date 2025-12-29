@@ -3,7 +3,6 @@ layout: post
 title: make nvm node
 date: '2018-03-27T23:30:00+03:00'
 tags: []
-categories: []
 ---
 
 Today I launched on a new project and there was a specific Node version

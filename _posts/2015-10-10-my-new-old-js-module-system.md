@@ -3,7 +3,6 @@ layout: post
 title: My new old JS module system
 date: '2015-10-10T17:07:41+03:00'
 tags: [js]
-categories: []
 ---
 A few months ago I’ve switched one of my side projects from CommonJS
 modules to plain JS namespaces, and in this post I’ll explain why.

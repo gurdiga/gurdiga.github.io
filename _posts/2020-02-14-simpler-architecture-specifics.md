@@ -3,7 +3,6 @@ layout: post
 title: 'Simpler architecture: specifics'
 date: 2020-02-14 08:40 +0200
 tags: []
-categories: []
 ---
 
 Two weeks ago [I wrote][1] about the overall organization of the code on [my side-project][2]. I have since then added a couple more scenarios, and I want to get just a little bit into the specifics of it.

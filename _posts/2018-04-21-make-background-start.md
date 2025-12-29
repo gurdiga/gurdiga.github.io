@@ -4,7 +4,6 @@ title: make background start
 date: 2018-04-21 11:29 +0300
 excerpt_separator: <!-- excerpt -->
 tags: []
-categories: []
 ---
 
 I have a couple of Jekyll-based websites, and my `make start` looks something

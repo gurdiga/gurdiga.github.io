@@ -3,7 +3,6 @@ layout: post
 title: Transactional tests with Mocha.js
 date: 2020-04-25 21:39 +0300
 tags: [coding, tdd, js, side-projects]
-categories: []
 ---
 
 This week, while working on the email change scenario on [my side project][0], I realized that my tests are not transactional, which meant that their changes to the DB could persist across test runs and so tests could influence each other. Hm... I thought I fixed this before.

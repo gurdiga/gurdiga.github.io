@@ -3,7 +3,6 @@ layout: post
 title: Vim macro of the week
 date: '2016-02-27T16:51:23+02:00'
 tags: [vim]
-categories: []
 ---
 The other day I was putting together an ad-hock `eslint` configuration
 where I had just one JS file for a prototype page. I was inside a git

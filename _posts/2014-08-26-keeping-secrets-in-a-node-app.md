@@ -3,7 +3,6 @@ layout: post
 title: Keeping secrets in a node app
 date: '2014-08-26T10:41:04+03:00'
 tags: [dev]
-categories: []
 ---
 For some time I was looking for a way to safely store my app secrets like API keys. Environment variables are OK, they work, but I found it cumbersome. I had a Heroku project where this worked with a .env file that looked like this:
 

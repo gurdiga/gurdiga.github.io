@@ -3,7 +3,6 @@ layout: post
 title: Thoughts on Redux
 date: '2016-03-30T08:00:43+03:00'
 tags: [js]
-categories: []
 ---
 Last weekend I’ve watched the
 [free introduction on Redux](https://egghead.io/courses/getting-started-with-redux)

@@ -3,7 +3,6 @@ layout: post
 title: My view of motivation
 date: '2015-08-16T10:47:18+03:00'
 tags: [productivity, peace]
-categories: []
 ---
 In the last post on Travis Neilson’s mailing list, he’s sharing his
 thoughts about motivation and proposes some solutions.

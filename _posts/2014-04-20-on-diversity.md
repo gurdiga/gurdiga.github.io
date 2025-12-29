@@ -3,7 +3,6 @@ layout: post
 title: On Diversity
 date: '2014-04-20T18:05:00+03:00'
 tags: []
-categories: []
 ---
 Accepting Diversity in people as a good thing, and understanding its
 implications gave me a much better life.

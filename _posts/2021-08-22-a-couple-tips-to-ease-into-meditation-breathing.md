@@ -3,7 +3,6 @@ layout: post
 title: A couple of tips to ease into meditation breathing
 date: 2021-08-22 11:14 +0300
 tags: []
-categories: []
 ---
 
 My meditation breathing exercises have been on and off in the last few years, and I have lately stumbled upon a couple of things that made it easier for me.

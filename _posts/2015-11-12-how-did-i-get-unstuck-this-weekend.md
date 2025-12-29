@@ -3,7 +3,6 @@ layout: post
 title: How did I get unstuck this weekend
 date: '2015-11-12T22:05:53+02:00'
 tags: [writing]
-categories: []
 ---
 For the past few weeks I got a bit stuck with one of my side project’s
 UI. I have had some vision of how that particular form should look like

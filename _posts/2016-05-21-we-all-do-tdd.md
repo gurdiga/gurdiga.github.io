@@ -3,7 +3,6 @@ layout: post
 title: We all do TDD
 date: '2016-05-21T10:00:49+03:00'
 tags: []
-categories: []
 ---
 The other day I’ve stumbled upon the an article entitled “Testing is not
 a phase.” — It reads like a list of truisms. And then it came to me:

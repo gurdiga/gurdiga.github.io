@@ -3,7 +3,6 @@ layout: post
 title: Fake chain pattern
 date: '2014-07-28T19:41:55+03:00'
 tags: [js]
-categories: []
 ---
 I have recently read “Smalltalk Best Practice Patterns” and since the
 idea of pattern is fresh in my mind, I want to share a function naming

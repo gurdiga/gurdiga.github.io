@@ -3,7 +3,6 @@ layout: post
 title: Why I code test-after now
 date: '2015-09-23T13:41:33+03:00'
 tags: [unit-testing]
-categories: []
 ---
 On my front-end side-projects I mostly did test-first development and it
 worked pretty well. But for my new job that I began recently I found

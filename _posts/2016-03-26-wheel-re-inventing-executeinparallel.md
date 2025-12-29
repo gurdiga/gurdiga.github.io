@@ -3,7 +3,6 @@ layout: post
 title: 'Wheel re-inventing: executeInParallel'
 date: '2016-03-26T16:25:08+02:00'
 tags: [js]
-categories: []
 ---
 At my day job we often need to write low-level JS code without any
 framework or library handy, and we often end up re-inventing some of the

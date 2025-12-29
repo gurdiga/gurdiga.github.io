@@ -4,7 +4,6 @@ title: My practical Vim
 date: '2015-05-07T07:39:39+03:00'
 tags:
 - vim
-categories:
 - tech-for-techies
 ---
 Last night I have finished re-reading Drew Neil’s “Practical Vim” and I

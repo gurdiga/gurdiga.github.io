@@ -3,7 +3,6 @@ layout: post
 title: Faster TypeScript build with project references
 date: 2020-03-22 18:04 +0200
 tags: []
-categories: []
 ---
 
 This weekend I have finally got to optimizing the TypeScript build for [my side project][1]. Because page bundles included both shared modules — one for the code shared between the backend and the frontend, and one for the code shared between the pages — they were getting longer to compile.

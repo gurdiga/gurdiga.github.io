@@ -3,7 +3,6 @@ layout: post
 title: Simple indefinite asset caching
 date: 2020-03-28 19:33 +0200
 tags: [coding]
-categories: []
 ---
 
 In my [last post][1] about my side project I have mentioned that I have extracted 2 shared bundles to increase my build speed, and one downside of that is that now have two more requests for every page, and this week I have implemented a small tweak that will compensate to that: _indefinite caching_.

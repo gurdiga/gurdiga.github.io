@@ -3,7 +3,6 @@ layout: post
 title: The indexOf problem
 date: '2016-01-31T13:10:49+02:00'
 tags: [js]
-categories: []
 ---
 I have recently read this article
 “[Don’t Make Me Remember Things](https://8thlight.com/blog/rob-looby/2016/01/28/dont-make-me-remember-things.html)”

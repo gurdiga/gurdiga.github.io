@@ -3,7 +3,6 @@ layout: post
 title: Switching from tape to Mocha
 date: '2016-05-28T10:00:55+03:00'
 tags: [coding, tdd]
-categories: []
 ---
 I have a side-project where I use tape for testing. A few days ago I
 stumbled on a test that I thought should fail, but passed.

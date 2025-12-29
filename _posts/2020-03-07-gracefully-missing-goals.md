@@ -3,7 +3,6 @@ layout: post
 title: Gracefully missing goals
 date: 2020-03-07 13:16 +0200
 tags: [productivity]
-categories: []
 ---
 
 > Hi. My name is Vlad and I missed my weekly goals.
