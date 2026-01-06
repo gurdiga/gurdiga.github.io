@@ -48,3 +48,10 @@ footer_links:
     icon: fas fa-rss-square
 
 search_full_content: true
+
+exclude:
+  - pre-commit
+  - .vscode/
+  - Makefile
+  - Gemfile*
+  - README.md
