@@ -4,5 +4,10 @@
     "editor.wordWrapColumn": 72,
     "editor.wrappingIndent": "same"
     // "editor.rulers": [72]
-  }
+  },
+  "spellright.language": ["en", "ro"],
+//   "workbench.colorCustomizations": {
+//     // No (spellright) error indicators on scrollbar
+//     "editorOverviewRuler.errorForeground": "#0000"
+//   }
 }
