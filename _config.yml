@@ -17,6 +17,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-last-modified-at
 
 feed:
   path: atom.xml

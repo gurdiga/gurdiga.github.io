@@ -3,8 +3,7 @@ title: "SOP: Sistem de Organizare Personală"
 permalink: /sop
 # layout: null
 css: /assets/css/custom/sop.css
-lang: ro
-last_modified_at: undefined
+lang: en
 ---
 
 <script type="module">
@@ -71,7 +70,4 @@ Următoarea etapă este să-mi **aranjez** notițele colectate.
 
 (În curând…)
 
-[
-    {{ page.last_modified_at }}
-
-]
+Data ediției: {% include last-modified-at.html %}
