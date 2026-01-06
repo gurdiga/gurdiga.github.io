@@ -16,10 +16,6 @@ h2.numbered::before {
     content: counter(h2) ". ";
 }
 
-.page-content a {
-    color: revert !important;
-}
-
 /*
 .mermaid .edgeLabel {
     padding: .25em .5em;
