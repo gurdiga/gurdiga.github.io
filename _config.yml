@@ -6,6 +6,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gurdiga.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /blog/:year/:month/:day/:title/
+timezone: Europe/Bucharest
 twitter_username:
 github_username:
 repo: https://github.com/gurdiga/gurdiga.github.io/
