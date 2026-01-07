@@ -4,6 +4,7 @@ permalink: /sop
 # layout: null
 css: /assets/css/custom/sop.css
 lang: ro
+sitemap: false
 ---
 
 <script type="module">
@@ -26,12 +27,17 @@ Orice inițiativă poate beneficia de un sistem pentru organizarea ideilor și r
 
 [0]: https://en.wikipedia.org/wiki/Getting_Things_Done
 
+<!-- TODO: Acestea nu sunt componente, ci mai degrabă etape, sau pași. Și, în afară de etape, care descriu activități, e necesară și componenta de stocare structurată a informației. -->
+
 Componente de bază:
+
 0. Colectarea
 0. Aranjarea
 0. Planificarea
 0. Realizarea
 0. Revizuirea periodică
+
+<br/>
 
 ## Colectarea
 {: .numbered }
