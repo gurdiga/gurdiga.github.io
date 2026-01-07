@@ -15,7 +15,7 @@ lang: ro
     });
 </script>
 
-<sidebar>
+<sidebar class="last-modified-at">
     <small>Ultima redactare: {% include last-modified-at.html %}</small>
 </sidebar>
 
