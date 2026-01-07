@@ -1,3 +1,6 @@
+# Custom workflow needed for jekyll-last-modified-at plugin support.
+# The plugin requires full git history (fetch-depth: 0), which GitHub's
+# default Jekyll deployment doesn't provide.
 name: Deploy Jekyll site to Pages
 
 on:
