@@ -22,7 +22,7 @@ lang: ro
 > Un _Sistem de Organizare Personală (SOP)_ reprezintă un set de măsuri, procedee și mecanisme de organizare a lucrurilor și ideilor, menite să faciliteze realizarea scopurilor.
 {: title="Definiție" }
 
-Orice inițiativă poate beneficia de un sistem pentru organizarea ideilor, materialelor și resurselor. Expun aici sistemul (bazat pe [GTD][0]) care s-a dovedit util pentru mine de-a lungul anilor.
+Orice inițiativă poate beneficia de un sistem pentru organizarea ideilor și resurselor. Expun aici sistemul (bazat pe [GTD][0]) care s-a dovedit util pentru mine de-a lungul anilor.
 
 [0]: https://en.wikipedia.org/wiki/Getting_Things_Done
 
