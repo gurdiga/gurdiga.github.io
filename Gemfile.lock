@@ -284,7 +284,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  activesupport (>= 6.1.7.5)
   bundle-audit
   github-pages
   jekyll-compose
@@ -293,7 +292,6 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   kramdown-parser-gfm
-  rexml
   webrick
 
 BUNDLED WITH

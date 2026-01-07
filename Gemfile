@@ -19,5 +19,3 @@ end
 gem "kramdown-parser-gfm"
 
 gem "bundle-audit"
-gem "activesupport", ">= 6.1.7.5"
-gem "rexml"
