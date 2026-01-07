@@ -10,6 +10,7 @@
 {%- assign modified_year = last_modified | date: "%Y" -%}
 {%- assign current_year = "now" | date: "%Y" -%}
 
+<time datetime="{{ last_modified | date_to_xmlschema }}">
 {%- if page.lang == "ro" -%}
   {%- assign months = "ianuarie,februarie,martie,aprilie,mai,iunie,iulie,august,septembrie,octombrie,noiembrie,decembrie" | split: "," -%}
   {%- assign month_num = last_modified | date: "%-m" | minus: 1 -%}
@@ -20,3 +21,4 @@
   {{- last_modified | date: "%H:%M" -}}, {{ last_modified | date: "%b %-d" }}
   {%- if modified_year != current_year -%}, {{ modified_year }}{%- endif -%}
 {%- endif -%}
+</time>
