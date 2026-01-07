@@ -3,7 +3,7 @@ title: "SOP: Sistem de Organizare Personală"
 permalink: /sop
 # layout: null
 css: /assets/css/custom/sop.css
-lang: en
+lang: ro
 ---
 
 <script type="module">
@@ -15,9 +15,12 @@ lang: en
     });
 </script>
 
-<blockquote title="Definiție">
-Un <em>Sistem de Organizare Personală (SOP)</em> reprezintă un set de măsuri, procedee și mecanisme de organizare a lucrurilor și ideilor, menite să faciliteze realizarea scopurilor.
-</blockquote>
+<sidebar>
+    <small>Ultima redactare: {% include last-modified-at.html %}</small>
+</sidebar>
+
+> Un _Sistem de Organizare Personală (SOP)_ reprezintă un set de măsuri, procedee și mecanisme de organizare a lucrurilor și ideilor, menite să faciliteze realizarea scopurilor.
+{: title="Definiție" }
 
 Orice inițiativă non-trivială are nevoie de un _sistem_ pentru gestionarea ideilor, materialelor, și resurselor. Expun aici sistemul (bazat pe [GTD][0]) care s-a dovedit util pentru mine de-a lungul anilor.
 
@@ -30,7 +33,8 @@ Componente de bază:
 0. Realizarea
 0. Revizuirea periodică
 
-<h2 class="numbered">Colectarea</h2>
+## Colectarea
+{: .numbered }
 
 Când îmi vine un gând să fac ceva, încep de obicei cu una sau mai multe idei și resurse. Primul pas spre a împlini acest gând este să-mi pun pe foaie aceste idei: acest pas se numește **colectare**, și este primul procedeu important al sistemului.
 
@@ -42,7 +46,8 @@ Partea cea mai importantă pentru colectare este ca ea să fie **ușoară**: să
 
 Un aspect important legat de colectare este să fie de nădejde: să pot fi sigur că nu „rătăcesc” acele notițe.
 
-<h2 class="numbered">Aranjarea</h2>
+## Aranjarea
+{: .numbered }
 
 Următoarea etapă este să-mi **aranjez** notițele colectate.
 
@@ -58,16 +63,17 @@ Următoarea etapă este să-mi **aranjez** notițele colectate.
   - E informație?
     - E un singur pas?
 
-<h2 class="numbered">Planificarea</h2>
+## Planificarea
+{: .numbered }
 
 (În curând…)
 
-<h2 class="numbered">Realizarea</h2>
+## Realizarea
+{: .numbered }
 
 (În curând…)
 
-<h2 class="numbered">Revizuirea periodică</h2>
+## Revizuirea periodică
+{: .numbered }
 
 (În curând…)
-
-Data ediției: {% include last-modified-at.html %}
