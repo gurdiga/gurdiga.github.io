@@ -277,7 +277,6 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
     uri (1.1.1)
-    wdm (0.1.1)
     webrick (1.9.1)
 
 PLATFORMS
@@ -288,8 +287,6 @@ DEPENDENCIES
   activesupport (>= 6.1.7.5)
   bundle-audit
   github-pages
-  http_parser.rb (~> 0.6.0)
-  jekyll (~> 3.9.3)
   jekyll-compose
   jekyll-feed (~> 0.6)
   jekyll-last-modified-at
@@ -297,7 +294,6 @@ DEPENDENCIES
   jekyll-sitemap
   kramdown-parser-gfm
   rexml
-  wdm (~> 0.1.0)
   webrick
 
 BUNDLED WITH
