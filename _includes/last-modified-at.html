@@ -1,9 +1,9 @@
 {%- comment -%}
   Display last modified timestamp in format:
-  - English (same year): "19:51, Jan 6"
-  - English (diff year): "19:51, Dec 29, 2025"
-  - Romanian (same year): "6 ianuarie, 19:51"
-  - Romanian (diff year): "6 ianuarie 2026, 19:51"
+  - English (same year): "Jan 6, 19:51 EET"
+  - English (diff year): "Dec 29, 2025, 19:51 EET"
+  - Romanian (same year): "6 ianuarie, 19:51 EET"
+  - Romanian (diff year): "6 ianuarie 2026, 19:51 EET"
 {%- endcomment -%}
 
 {%- assign last_modified = page.last_modified_at -%}
@@ -16,9 +16,9 @@
   {%- assign month_num = last_modified | date: "%-m" | minus: 1 -%}
   {%- assign month = months[month_num] -%}
   {{- last_modified | date: "%-d" }} {{ month }}
-  {%- if modified_year != current_year %} {{ modified_year }}{% endif -%}, {{ last_modified | date: "%H:%M" }}
+  {%- if modified_year != current_year %} {{ modified_year }}{% endif -%}, {{ last_modified | date: "%H:%M %Z" }}
 {%- else -%}
-  {{- last_modified | date: "%H:%M" -}}, {{ last_modified | date: "%b %-d" }}
-  {%- if modified_year != current_year -%}, {{ modified_year }}{%- endif -%}
+  {{- last_modified | date: "%b %-d" }}
+  {%- if modified_year != current_year -%}, {{ modified_year }}{%- endif -%}, {{ last_modified | date: "%H:%M %Z" }}
 {%- endif -%}
 </time>
