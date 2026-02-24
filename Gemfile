@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "webrick"
+gem "csv" # required by jekyll on Ruby 3.4+
 
 # Jekyll version is managed by github-pages gem below.
 gem "github-pages", group: :jekyll_plugins
