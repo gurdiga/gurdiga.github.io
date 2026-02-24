@@ -6,7 +6,7 @@ SERVER_PORT=4004
 GREP=/opt/homebrew/opt/grep/libexec/gnubin/grep
 
 build: bundler # adjust-config
-	bundle exec jekyll build
+	$(BUNDLER) exec jekyll build
 
 Gemfile.lock: Gemfile
 	bundle install && touch Gemfile.lock
